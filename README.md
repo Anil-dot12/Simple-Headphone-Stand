@@ -19,6 +19,15 @@ A headphone stand designed for 3D printing. It helps keep headphones organized o
 ![render_onshape.png](https://github.com/Anil-dot12/Simple-Headphone-Stand/blob/a34e34d5b290cdef61c2c2fa465d644e65774376/Part%20Studio%201.png) 
 
 
+## Specifications
+
+- Stand height: 7 in (~18 cm)
+- Top arm length: 2.8 in (~7 cm)
+- Top arm width: 1 in (~2.5 cm)
+- Base dimensions: 6 in × 5 in × 0.5 in (~15 × 13 × 1.2 cm)
+- Base slot for small earbuds case: 3 in × 2 in (~7.5 × 5 cm)
+- Suitable for medium to large over-ear headphones
+
 ## Usage
 - Suitable for 3D printing (FDM/PLA).  
 - Helps keep the desk neat and tidy.  
