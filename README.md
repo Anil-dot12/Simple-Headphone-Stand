@@ -29,7 +29,7 @@ A headphone stand designed for 3D printing. It helps keep headphones organized o
 - Suitable for medium to large over-ear headphones
 
 ## Usage
-- Suitable for 3D printing (FDM/PLA).  
+- Suitable for 3D printing .  
 - Helps keep the desk neat and tidy.  
 - Protects the headphones from damage.  
 - Compact and easy to place anywhere.
