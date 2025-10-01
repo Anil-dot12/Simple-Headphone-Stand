@@ -15,6 +15,7 @@ A headphone stand designed for 3D printing. It helps keep headphones organized o
 ## Images
 ![photo_real.png](https://github.com/Anil-dot12/Simple-Headphone-Stand/blob/ea90e7ccf04da78ae91e3baca093095800751cc3/photo_real.jpg) 
 
+![render_onshape.png](https://github.com/Anil-dot12/Simple-Headphone-Stand/blob/02a827fbf13cc07eb737a462cf43286f5661d4c8/render_onshape%20(2).png) 
 ![render_onshape.png](https://github.com/Anil-dot12/Simple-Headphone-Stand/blob/a34e34d5b290cdef61c2c2fa465d644e65774376/Part%20Studio%201.png) 
 
 
